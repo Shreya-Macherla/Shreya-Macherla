@@ -1,0 +1,49 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # runs every day at 06:00 UTC
+  workflow_dispatch:       # allows manual trigger from GitHub UI
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and update quote
+        run: |
+          python3 - <<'EOF'
+          import json, re, urllib.request
+
+          url = "https://api.quotable.io/random?tags=technology,science,knowledge,success"
+          try:
+              with urllib.request.urlopen(url, timeout=10) as r:
+                  data = json.loads(r.read())
+              quote = f'> *"{data["content"]}"*\n>\n> — **{data["author"]}**'
+          except Exception:
+              quote = '> *"Without data, you\'re just another person with an opinion."*\n>\n> — **W. Edwards Deming**'
+
+          with open("README.md", "r") as f:
+              content = f.read()
+
+          new_content = re.sub(
+              r'<!--QUOTE_START-->.*?<!--QUOTE_END-->',
+              f'<!--QUOTE_START-->\n{quote}\n<!--QUOTE_END-->',
+              content,
+              flags=re.DOTALL
+          )
+
+          with open("README.md", "w") as f:
+              f.write(new_content)
+
+          print("Quote updated.")
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update daily quote"
+          git push

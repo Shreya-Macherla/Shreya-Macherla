@@ -21,11 +21,11 @@ Data scientist with peer-reviewed publications in PLOS ONE and Springer, and UKR
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreya-Macherla&show_icons=true&hide_border=true&count_private=true&theme=default" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-Macherla&layout=compact&hide_border=true&theme=default" height="150"/>
-</p>
+<!--QUOTE_START-->
+> *"Data is the new oil."*
+>
+> — **Clive Humby**
+<!--QUOTE_END-->
 
 ---
 
@@ -107,3 +107,11 @@ Data scientist with peer-reviewed publications in PLOS ONE and Springer, and UKR
 - **Macherla, S. et al. (2025).** Nonlinear connectedness between crypto-assets and CO₂ emissions: A complex systems modelling approach. *PLOS ONE.* [doi:10.1371/journal.pone.0318647](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318647)
 - **Macherla, S. et al. (2024).** CyberHER: Addressing Gender Inequality Through Digital Skills and Cultural Change in Cybersecurity. *Springer LNNS (Scopus).* [link.springer.com](https://link.springer.com/chapter/10.1007/978-981-96-7400-8_8)
 - **Macherla, S. et al. (forthcoming 2027).** IoT-enabled operational performance. *Springer Smart Innovation (Scopus/WoS).* SEB-25 — accepted, in press.
+
+---
+
+### Coding Activity
+
+> **Setup required:** Create a free account at [wakatime.com](https://wakatime.com), install the plugin in your editor, then replace `YOUR_WAKATIME_USERNAME` below with your username.
+
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&hide_border=true&layout=compact)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
