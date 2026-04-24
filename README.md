@@ -17,7 +17,7 @@
 
 ---
 
-PLOS ONE published researcher with 3+ years of applied ML and analytics across NLP, time-series forecasting, and geospatial analysis. Formerly UKRI-funded at Cardiff Metropolitan University. MSc Data Science (Distinction). Based in Amsterdam.
+Data scientist with peer-reviewed publications in PLOS ONE and Springer, and UKRI-funded research experience in NLP, time-series forecasting, and geospatial analysis. MSc Data Science (Distinction), Cardiff Metropolitan University. Based in Amsterdam.
 
 ---
 
