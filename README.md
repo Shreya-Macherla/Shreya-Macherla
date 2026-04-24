@@ -35,7 +35,6 @@ Data scientist with peer-reviewed publications in PLOS ONE and Springer, and UKR
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 **ML & Analytics**
 
