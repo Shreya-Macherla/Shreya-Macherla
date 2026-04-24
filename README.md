@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Scientist & Analyst</b> &nbsp;·&nbsp; Amsterdam, Netherlands<br>
-  Open to <b>Data Analyst</b> · <b>Data Scientist</b> · <b>BI Analyst</b> roles
+  Open to <b>Data Analyst</b> · <b>Data Scientist</b> · <b>BI Analyst</b> · <b>Analytics Lead</b> · <b>Junior Data Manager</b> roles
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-Data scientist with peer-reviewed publications in PLOS ONE and Springer, and UKRI-funded research experience in NLP, time-series forecasting, and geospatial analysis. MSc Data Science (Distinction), Cardiff Metropolitan University. Based in Amsterdam.
+Data scientist with peer-reviewed publications in PLOS ONE and Springer, and UKRI-funded research experience in NLP, time-series forecasting, and geospatial analysis. Experienced in coordinating cross-functional research teams, managing stakeholder deliverables, and mentoring junior analysts. MSc Data Science (Distinction), Cardiff Metropolitan University. Based in Amsterdam, targeting analytics lead and data science roles.
 
 ---
 
@@ -78,7 +78,7 @@ Data scientist with peer-reviewed publications in PLOS ONE and Springer, and UKR
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Crypto–Carbon Connectedness](https://github.com/Shreya-Macherla/CryptoCurrency-Carbon-Emission) | NARMAX & LSTM forecasting of crypto–CO₂ connectedness — **PLOS ONE 2025** · 89–95% accuracy · 10 asset pairs | Python · statsmodels · TensorFlow |
+| [Crypto–Carbon Connectedness](https://github.com/Shreya-Macherla/CryptoCurrency-Carbon-Emission) | Led cross-institutional research team · NARMAX & LSTM forecasting of crypto–CO₂ connectedness · delivered to publication standard — **PLOS ONE 2025** · 89–95% accuracy | Python · statsmodels · TensorFlow |
 | [Voice-Based Authentication](https://github.com/Shreya-Macherla/Voice-based-Authentication) | GMM + CNN speaker verification from MFCC features — **98.76% accuracy** · UKRI TRAITPASS | Python · SciPy · TensorFlow |
 | [Human Activity Recognition](https://github.com/Shreya-Macherla/Human-Activity-Recognition-using-CNN-and-RNN) | CNN, RNN, LSTM, CNN-LSTM comparison on smartphone sensor data — 6 activity classes | Python · TensorFlow · scikit-learn |
 | [Concrete Slump Prediction](https://github.com/Shreya-Macherla/Simulation-of-Concrete-Slump-Prediction-Model-using-Data-Science-Techniques) | 8-model regression comparison on UCI dataset — SVR best test R² (0.478) | Python · scikit-learn |
@@ -96,7 +96,7 @@ Data scientist with peer-reviewed publications in PLOS ONE and Springer, and UKR
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Wales Tourism Sentiment](https://github.com/Shreya-Macherla/Sustainable-Tourism) | NLP analysis of 800K tweets on sustainable tourism themes — UKRI-funded · temporal trends | Python · NLTK · Tableau |
+| [Wales Tourism Sentiment](https://github.com/Shreya-Macherla/Sustainable-Tourism) | Owned end-to-end delivery of UKRI-funded project · NLP analysis of 800K tweets · presented findings to stakeholders and policy teams | Python · NLTK · Tableau |
 | [Real-Time Tweet Summarisation](https://github.com/Shreya-Macherla/Real-Time-Summarization-of-Twitter-Stream-Data) | Micro-batch streaming pipeline — LDA topic modelling, TF-IDF summarisation, burst detection | Python · Gensim · NLTK |
 | [Geospatial Analysis](https://github.com/Shreya-Macherla/Geospatial-Analysis) | Spatial hotspot detection, nearest-neighbour clustering, interactive density map | Python · GeoPandas · Folium |
 
