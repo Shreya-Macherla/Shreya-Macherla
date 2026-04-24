@@ -63,8 +63,11 @@ Data scientist with peer-reviewed publications in PLOS ONE and Springer, and UKR
 **Platforms & Tools**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-Anthropic-D97757?style=flat)
 
 ---
 
