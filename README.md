@@ -15,7 +15,7 @@
   </a>
   &nbsp;
   <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318647">
-    <img src="https://img.shields.io/badge/PLOS%20ONE-Published%202023-E44C41?style=flat" alt="PLOS ONE"/>
+    <img src="https://img.shields.io/badge/PLOS%20ONE-Published%202025-E44C41?style=flat" alt="PLOS ONE"/>
   </a>
   &nbsp;
   <a href="mailto:shreyamacherla@gmail.com">
@@ -67,7 +67,7 @@ PLOS ONE published researcher with 3+ years of applied ML and analytics across N
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Crypto–Carbon Connectedness](https://github.com/Shreya-Macherla/CryptoCurrency-Carbon-Emission) | NARMAX & LSTM forecasting of crypto–CO₂ connectedness — **PLOS ONE 2023** · 89–95% accuracy · 10 asset pairs | Python · statsmodels · TensorFlow |
+| [Crypto–Carbon Connectedness](https://github.com/Shreya-Macherla/CryptoCurrency-Carbon-Emission) | NARMAX & LSTM forecasting of crypto–CO₂ connectedness — **PLOS ONE 2025** · 89–95% accuracy · 10 asset pairs | Python · statsmodels · TensorFlow |
 | [Voice-Based Authentication](https://github.com/Shreya-Macherla/Voice-based-Authentication) | GMM + CNN speaker verification from MFCC features — **98.76% accuracy** · UKRI TRAITPASS | Python · SciPy · TensorFlow |
 | [Human Activity Recognition](https://github.com/Shreya-Macherla/Human-Activity-Recognition-using-CNN-and-RNN) | CNN, RNN, LSTM, CNN-LSTM comparison on smartphone sensor data — 6 activity classes | Python · TensorFlow · scikit-learn |
 | [Concrete Slump Prediction](https://github.com/Shreya-Macherla/Simulation-of-Concrete-Slump-Prediction-Model-using-Data-Science-Techniques) | 8-model regression comparison on UCI dataset — SVR best test R² (0.478) | Python · scikit-learn |
@@ -93,6 +93,6 @@ PLOS ONE published researcher with 3+ years of applied ML and analytics across N
 
 ### Publications
 
-- **Macherla, S. et al. (2023).** Nonlinear connectedness between crypto-assets and CO₂ emissions: A complex systems modelling approach. *PLOS ONE.* [doi:10.1371/journal.pone.0318647](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318647)
+- **Macherla, S. et al. (2025).** Nonlinear connectedness between crypto-assets and CO₂ emissions: A complex systems modelling approach. *PLOS ONE.* [doi:10.1371/journal.pone.0318647](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318647)
 - **Springer LNNS** *(Scopus)* — Gender equality in cybersecurity. ICCS 2024.
 - **Springer Smart Innovation** *(Scopus/WoS)* — IoT-enabled operational performance. SEB-25.
