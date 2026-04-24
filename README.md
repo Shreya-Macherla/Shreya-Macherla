@@ -95,4 +95,4 @@ PLOS ONE published researcher with 3+ years of applied ML and analytics across N
 
 - **Macherla, S. et al. (2025).** Nonlinear connectedness between crypto-assets and CO₂ emissions: A complex systems modelling approach. *PLOS ONE.* [doi:10.1371/journal.pone.0318647](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318647)
 - **Macherla, S. et al. (2024).** Gender equality in cybersecurity. *Springer LNNS (Scopus).* [link.springer.com](https://link.springer.com/chapter/10.1007/978-981-96-7400-8_8)
-- **Springer Smart Innovation** *(Scopus/WoS)* — IoT-enabled operational performance. SEB-25.
+- **Macherla, S. et al. (forthcoming 2027).** IoT-enabled operational performance. *Springer Smart Innovation (Scopus/WoS).* SEB-25 — accepted, in press.
