@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat&logo=googlescholar" alt="Google Scholar"/>
   </a>
   &nbsp;
-  <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318647">
-    <img src="https://img.shields.io/badge/PLOS%20ONE-Published%202025-E44C41?style=flat" alt="PLOS ONE"/>
+  <a href="https://orcid.org/0009-0002-4108-4178">
+    <img src="https://img.shields.io/badge/ORCID-0009--0002--4108--4178-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
   &nbsp;
   <a href="mailto:shreyamacherla@gmail.com">
