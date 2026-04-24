@@ -111,10 +111,3 @@ Data scientist with peer-reviewed publications in PLOS ONE and Springer, and UKR
 - **Macherla, S. et al. (2024).** CyberHER: Addressing Gender Inequality Through Digital Skills and Cultural Change in Cybersecurity. *Springer LNNS (Scopus).* [link.springer.com](https://link.springer.com/chapter/10.1007/978-981-96-7400-8_8)
 - **Macherla, S. et al. (forthcoming 2027).** IoT-enabled operational performance. *Springer Smart Innovation (Scopus/WoS).* SEB-25 — accepted, in press.
 
----
-
-### Coding Activity
-
-> **Setup required:** Create a free account at [wakatime.com](https://wakatime.com), install the plugin in your editor, then replace `YOUR_WAKATIME_USERNAME` below with your username.
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&hide_border=true&layout=compact)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
