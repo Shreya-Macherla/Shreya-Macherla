@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/smac17/">
-    <img src="https://img.shields.io/badge/LinkedIn-smac17-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-smac17-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:shreyamacherla@gmail.com">
