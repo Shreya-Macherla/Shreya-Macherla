@@ -50,6 +50,8 @@ Data scientist with peer-reviewed publications in PLOS ONE and Springer, and UKR
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-Maps-77b829?style=flat)
 ![WordCloud](https://img.shields.io/badge/WordCloud-NLP%20Viz-9B59B6?style=flat)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 **Platforms & Tools**
 
