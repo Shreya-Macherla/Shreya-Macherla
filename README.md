@@ -45,8 +45,11 @@ Data scientist with peer-reviewed publications in PLOS ONE and Springer, and UKR
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-charts-11557c?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-Maps-77b829?style=flat)
+![WordCloud](https://img.shields.io/badge/WordCloud-NLP%20Viz-9B59B6?style=flat)
 
 **Platforms & Tools**
 
