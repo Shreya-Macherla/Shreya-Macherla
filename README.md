@@ -10,14 +10,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-smac17-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://scholar.google.com/citations?hl=en&user=Rh4Fs14AAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat&logo=googlescholar" alt="Google Scholar"/>
-  </a>
-  &nbsp;
-  <a href="https://orcid.org/0009-0002-4108-4178">
-    <img src="https://img.shields.io/badge/ORCID-0009--0002--4108--4178-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/>
-  </a>
-  &nbsp;
   <a href="mailto:shreyamacherla@gmail.com">
     <img src="https://img.shields.io/badge/Email-shreyamacherla%40gmail.com-D44638?style=flat&logo=gmail" alt="Email"/>
   </a>
@@ -92,6 +84,9 @@ PLOS ONE published researcher with 3+ years of applied ML and analytics across N
 ---
 
 ### Publications
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=Rh4Fs14AAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--4108--4178-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-4108-4178)
 
 - **Macherla, S. et al. (2025).** Nonlinear connectedness between crypto-assets and CO₂ emissions: A complex systems modelling approach. *PLOS ONE.* [doi:10.1371/journal.pone.0318647](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318647)
 - **Macherla, S. et al. (2024).** CyberHER: Addressing Gender Inequality Through Digital Skills and Cultural Change in Cybersecurity. *Springer LNNS (Scopus).* [link.springer.com](https://link.springer.com/chapter/10.1007/978-981-96-7400-8_8)
