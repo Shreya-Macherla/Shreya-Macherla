@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat&logo=googlescholar" alt="Google Scholar"/>
   </a>
   &nbsp;
-  <a href="https://doi.org/10.1371/journal.pone.0291986">
+  <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318647">
     <img src="https://img.shields.io/badge/PLOS%20ONE-Published%202023-E44C41?style=flat" alt="PLOS ONE"/>
   </a>
   &nbsp;
@@ -93,6 +93,6 @@ PLOS ONE published researcher with 3+ years of applied ML and analytics across N
 
 ### Publications
 
-- **Macherla, S. et al. (2023).** Nonlinear connectedness between crypto-assets and CO₂ emissions: A complex systems modelling approach. *PLOS ONE.* [doi:10.1371/journal.pone.0291986](https://doi.org/10.1371/journal.pone.0291986)
+- **Macherla, S. et al. (2023).** Nonlinear connectedness between crypto-assets and CO₂ emissions: A complex systems modelling approach. *PLOS ONE.* [doi:10.1371/journal.pone.0318647](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318647)
 - **Springer LNNS** *(Scopus)* — Gender equality in cybersecurity. ICCS 2024.
 - **Springer Smart Innovation** *(Scopus/WoS)* — IoT-enabled operational performance. SEB-25.
