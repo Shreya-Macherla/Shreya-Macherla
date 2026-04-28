@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Scientist & Analyst</b> &nbsp;·&nbsp; Amsterdam, Netherlands<br>
-  Open to <b>Data Analyst</b> · <b>Data Scientist</b> · <b>BI Analyst</b> · <b>Analytics Lead</b> · <b>Junior Data Manager</b> roles
+  Open to <b>Data Analyst</b> · <b>Data Scientist</b> · <b>BI Analyst</b> · <b>Analytics Lead</b> roles
 </p>
 
 <p align="center">
