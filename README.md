@@ -17,7 +17,7 @@
 
 ---
 
-Data scientist with peer-reviewed publications in PLOS ONE and Springer, and UKRI-funded research experience in NLP, time-series forecasting, and geospatial analysis. Experienced in coordinating cross-functional research teams, managing stakeholder deliverables, and mentoring junior analysts. MSc Data Science (Distinction), Cardiff Metropolitan University. Based in Amsterdam, targeting analytics lead and data science roles.
+Data scientist with peer-reviewed publications in PLOS ONE and Springer, and UKRI-funded research experience in NLP, time-series forecasting, and geospatial analysis. Experienced in coordinating cross-functional research teams, managing stakeholder deliverables, and mentoring junior analysts. MSc Data Science, Cardiff Metropolitan University. Based in Amsterdam, targeting analytics and data science roles.
 
 ---
 
