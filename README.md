@@ -1,8 +1,8 @@
 <h1 align="center">Shreya Macherla</h1>
 
 <p align="center">
-  <b>Applied Data Scientist & Analytics Lead</b> &nbsp;·&nbsp; Amsterdam, Netherlands<br>
-  Open to <b>Data Scientist</b> · <b>Data Analyst</b> · <b>Analytics Lead</b> · <b>BI Analyst</b> roles
+  <b>Researcher / Data Analyst</b> &nbsp;·&nbsp; Amsterdam, Netherlands<br>
+  Open to <b>Researcher</b> · <b>Data Analyst</b> · <b>Analytics Lead</b> · <b>BI Analyst</b> roles
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-Data scientist with peer-reviewed publications in PLOS ONE and Springer, and UKRI-funded professional research experience across NLP, time-series forecasting, and geospatial analytics. Coordinated cross-institutional research teams, managed end-to-end project delivery, and presented findings to policy and industry stakeholders. MSc Data Science (Distinction), Cardiff Metropolitan University.
+Researcher / Data Analyst with peer-reviewed publications in PLOS ONE and Springer, and UKRI-funded professional research experience across NLP, time-series forecasting, and geospatial analytics. Coordinated cross-institutional research teams, managed end-to-end project delivery, and presented findings to policy and industry stakeholders. MSc Data Science (Distinction), Cardiff Metropolitan University.
 
 ---
 
