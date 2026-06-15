@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Researcher / Data Analyst</b> &nbsp;·&nbsp; Amsterdam, Netherlands<br>
-  Open to <b>Researcher</b> · <b>Data Analyst</b> · <b>Analytics Lead</b> · <b>BI Analyst</b> roles
+  Open to <b>Researcher</b> · <b>Data Analyst</b> · <b>BI Analyst</b> roles
 </p>
 
 <p align="center">
