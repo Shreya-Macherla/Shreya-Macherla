@@ -58,7 +58,7 @@ Researcher / Data Analyst with peer-reviewed publications in PLOS ONE and Spring
 
 | Project | What was delivered | Dataset | Tools |
 |---------|-------------------|---------|-------|
-| [Crypto–Carbon Connectedness](https://github.com/Shreya-Macherla/CryptoCurrency-Carbon-Emission) | Led cross-institutional team · NARX/NARMAX (sysidentpy FROLS) modelling of crypto–CO₂ connectedness · published **PLOS ONE 2025** | Real: CoinMarketCap prices + EU ETS carbon data (Jan 2019–Mar 2023) | Python · sysidentpy · statsmodels |
+| [Crypto–Carbon Connectedness](https://github.com/Shreya-Macherla/CryptoCurrency-Carbon-Emission) | 2nd author (formal analysis, software, visualization) · NARX/NARMAX (sysidentpy FROLS) beats LSTM & SARIMAX baselines · published **PLOS ONE 2025** | Real: crypto trading volumes (CoinMarketCap/Yahoo) + power-sector CO₂ (Carbon Monitor), Jan 2019–Mar 2023 | Python · sysidentpy · Keras · statsmodels |
 | [Wales Tourism Sentiment](https://github.com/Shreya-Macherla/Sustainable-Tourism) | Owned full project delivery · TextBlob sentiment pipeline on 113K tweets · presented findings to UKRI stakeholders and policy teams | Real: 113K tweets (~2014–2023), UKRI-funded | Python · NLTK · TextBlob · Tableau |
 | [Amsterdam Airbnb Analytics](https://github.com/Shreya-Macherla/Amsterdam-Open-Data-Analytics) | Rental pressure analysis · pricing patterns · host concentration · interactive Folium heatmap | Real: Inside Airbnb listings (2026-06 snapshot, 6.4K listings) | Python · GeoPandas · SQL |
 | [E-Commerce SQL Analytics](https://github.com/Shreya-Macherla/Ecommerce-SQL-Analytics) | 10 production SQL queries · LTV cohorts · delivery satisfaction · seller ranking · NPS proxy | Real schema: Olist Brazilian E-Commerce — 100K+ orders, 9 tables | SQL · DuckDB · Python |
@@ -73,6 +73,6 @@ Researcher / Data Analyst with peer-reviewed publications in PLOS ONE and Spring
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=Rh4Fs14AAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--4108--4178-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-4108-4178)
 
-- **Macherla, S. et al. (2025).** Nonlinear connectedness between crypto-assets and CO₂ emissions: A complex systems modelling approach. *PLOS ONE.* [doi:10.1371/journal.pone.0318647](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318647)
+- **Khan MH, Macherla S, Anupam A (2025).** Nonlinear connectedness of conventional crypto-assets and sustainable crypto-assets with climate change: A complex systems modelling approach. *PLoS ONE 20(2): e0318647.* [doi:10.1371/journal.pone.0318647](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318647)
 - **Macherla, S. et al. (2024).** CyberHER: Addressing Gender Inequality Through Digital Skills and Cultural Change in Cybersecurity. *Springer LNNS (Scopus).* [link.springer.com](https://link.springer.com/chapter/10.1007/978-981-96-7400-8_8)
 - **Macherla, S. et al. (forthcoming 2027).** IoT-enabled operational performance. *Springer Smart Innovation (Scopus/WoS).* SEB-25 — accepted, in press.
