@@ -74,5 +74,5 @@ Researcher / Data Analyst with peer-reviewed publications in PLOS ONE and Spring
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--4108--4178-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-4108-4178)
 
 - **Khan MH, Macherla S, Anupam A (2025).** Nonlinear connectedness of conventional crypto-assets and sustainable crypto-assets with climate change: A complex systems modelling approach. *PLoS ONE 20(2): e0318647.* [doi:10.1371/journal.pone.0318647](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318647)
-- **Macherla, S. et al. (2024).** CyberHER: Addressing Gender Inequality Through Digital Skills and Cultural Change in Cybersecurity. *Springer LNNS (Scopus).* [link.springer.com](https://link.springer.com/chapter/10.1007/978-981-96-7400-8_8)
+- **Macherla S, Zafar MH, Johar S, Carroll F (2025).** CyberHER: Addressing Gender Inequality Through Digital Skills and Cultural Change in Cybersecurity. *Springer LNNS vol 1453 (ICCS 2024, Scopus).* [link.springer.com](https://link.springer.com/chapter/10.1007/978-981-96-7400-8_8)
 - **Macherla, S. et al. (forthcoming 2027).** IoT-enabled operational performance. *Springer Smart Innovation (Scopus/WoS).* SEB-25 — accepted, in press.
