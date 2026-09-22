@@ -1,8 +1,17 @@
 <h1 align="center">Shreya Macherla</h1>
 
 <p align="center">
+  <b>Founder &amp; CEO, XGenAI</b> &nbsp;·&nbsp; Amsterdam, Netherlands<br>
+  AI &amp; Workflow Automation
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/smac17/">
     <img src="https://img.shields.io/badge/LinkedIn-smac17-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://x-genai.com">
+    <img src="https://img.shields.io/badge/XGenAI-x--genai.com-000000?style=flat&logo=googlechrome&logoColor=white" alt="XGenAI"/>
   </a>
   &nbsp;
   <a href="mailto:shreyamacherla@gmail.com">
@@ -12,7 +21,7 @@
 
 ---
 
-Peer-reviewed publications in PLOS ONE and Springer, with UKRI-funded professional research experience across NLP, time-series forecasting, and geospatial analytics. Coordinated cross-institutional research teams, managed end-to-end project delivery, and presented findings to policy and industry stakeholders. MSc Data Science (Distinction), Cardiff Metropolitan University.
+Founder & CEO of **XGenAI**, building AI-powered automation and workflow solutions for businesses. Background in data science and applied research, with peer-reviewed publications in PLOS ONE and Springer, and UKRI-funded research experience across NLP, time-series forecasting, and geospatial analytics. MSc Data Science (Distinction), Cardiff Metropolitan University.
 
 ---
 
