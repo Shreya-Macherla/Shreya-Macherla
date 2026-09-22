@@ -1,11 +1,6 @@
 <h1 align="center">Shreya Macherla</h1>
 
 <p align="center">
-  <b>Researcher / Data Analyst</b> &nbsp;·&nbsp; Amsterdam, Netherlands<br>
-  Open to <b>Researcher</b> · <b>Data Analyst</b> · <b>BI Analyst</b> roles
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/smac17/">
     <img src="https://img.shields.io/badge/LinkedIn-smac17-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
@@ -17,7 +12,7 @@
 
 ---
 
-Researcher / Data Analyst with peer-reviewed publications in PLOS ONE and Springer, and UKRI-funded professional research experience across NLP, time-series forecasting, and geospatial analytics. Coordinated cross-institutional research teams, managed end-to-end project delivery, and presented findings to policy and industry stakeholders. MSc Data Science (Distinction), Cardiff Metropolitan University.
+Peer-reviewed publications in PLOS ONE and Springer, with UKRI-funded professional research experience across NLP, time-series forecasting, and geospatial analytics. Coordinated cross-institutional research teams, managed end-to-end project delivery, and presented findings to policy and industry stakeholders. MSc Data Science (Distinction), Cardiff Metropolitan University.
 
 ---
 
