@@ -1,7 +1,7 @@
 <h1 align="center">Shreya Macherla</h1>
 
 <p align="center">
-  <b>Founder &amp; CEO, XGenAI</b> &nbsp;·&nbsp; Amsterdam, Netherlands<br>
+  <b>Founder &amp; CEO, X-GenAI</b> &nbsp;·&nbsp; Amsterdam, Netherlands<br>
   AI &amp; Workflow Automation
 </p>
 
@@ -11,7 +11,7 @@
   </a>
   &nbsp;
   <a href="https://x-genai.com">
-    <img src="https://img.shields.io/badge/XGenAI-x--genai.com-000000?style=flat&logo=googlechrome&logoColor=white" alt="XGenAI"/>
+    <img src="https://img.shields.io/badge/X--GenAI-x--genai.com-000000?style=flat&logo=googlechrome&logoColor=white" alt="X-GenAI"/>
   </a>
   &nbsp;
   <a href="mailto:shreyamacherla@gmail.com">
@@ -21,7 +21,7 @@
 
 ---
 
-Founder & CEO of **XGenAI**, building AI-powered automation and workflow solutions for businesses. Background in data science and applied research, with peer-reviewed publications in PLOS ONE and Springer, and UKRI-funded research experience across NLP, time-series forecasting, and geospatial analytics. MSc Data Science (Distinction), Cardiff Metropolitan University.
+Founder & CEO of **X-GenAI**, building AI-powered automation and workflow solutions for businesses. Background in data science and applied research, with peer-reviewed publications in PLOS ONE and Springer, and UKRI-funded research experience across NLP, time-series forecasting, and geospatial analytics. MSc Data Science (Distinction), Cardiff Metropolitan University.
 
 ---
 
